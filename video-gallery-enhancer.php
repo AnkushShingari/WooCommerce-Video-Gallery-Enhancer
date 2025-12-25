@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Video Gallery Enhancer
 Description: Add video to WooCommerce product gallery with position control
 Version: 1.0
-Author: Ankush Shingari
+Author: AnkushShingari
 */
 
 // Add admin meta box
@@ -171,3 +171,4 @@ function vge_enqueue_assets() {
     );
 
 }
+
